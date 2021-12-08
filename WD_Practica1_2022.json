@@ -71,22 +71,13 @@
         "url": "https://anna2000guiu.github.io/PRACTICA-1-Landing-page-/"
     },
     {
-        "id": 14,
-        "autor": "Alejandro García & Gemma Martín",
-        "titulo": "Práctica 1. Landing page",
-        "srcimg": " https://gmar0.github.io/landingpage/menuWeb.png",
-        "alt": "Captura del menú-índice de nuestra web",
-        "texto": "La web contiene información y algunas fotos de las ciudades de las que venimos o hemos visitado uno u otro a lo largo de nuestra vida",
-        "url": "https://gmar0.github.io/landingpage/"
-    },
-    {
         "id": 7,
         "autor": "Alex Fernandez Mateu",
         "titulo": "ArTec Festival Creatiu",
         "srcimg": "https://lamaletacreativa.com/wp-content/uploads/2021/06/logos_LMC-2.png",
         "alt": "Captura de pantalla del proyecto de la parte inicial de la landing page",
         "texto": "Es una landing page creada para promocionar un festival real que tendrá lugar en Febrero de 2022 en Lleida, organizado por La Maleta Creativa",
-        "url": ""
+        "url": "https://www.lamaletacreativa.com"
     },
     {
         "id": 8,
@@ -124,6 +115,15 @@
         "alt": "Texto alternativo de la imágen",
         "texto": "Pàgina web per a informar a la gent de que el mar necessita que el cuidin",
         "url": "https://afrikiudl.github.io/practicawd/"
+    },
+    {
+        "id": 14,
+        "autor": "Alejandro García & Gemma Martín",
+        "titulo": "Práctica 1. Landing page",
+        "srcimg": " https://gmar0.github.io/landingpage/menuWeb.png",
+        "alt": "Captura del menú-índice de nuestra web",
+        "texto": "La web contiene información y algunas fotos de las ciudades de las que venimos o hemos visitado uno u otro a lo largo de nuestra vida",
+        "url": "https://gmar0.github.io/landingpage/"
     },
     {
         "id": 15,
@@ -177,7 +177,7 @@
         "srcimg": "https://raw.githubusercontent.com/mnfug31/foto/bcd53aff0b489bde86503735b894e6d581da6d26/IMG_0367.JPG",
         "alt": "Fotografia d'una làmpada de sal, juga amb la intensitat del color",
         "texto": "La web és un recull fotogràfic de diverses fotògrafes que m'agraden i que utilitzen la fotografia com a eina per transmetre la forma en que veuen el món.",
-        "url": "https://mnfug31.github.io/Pr-ctica-1/"
+        "url": "https://github.com/mnfug31/Pr-ctica-1"
     },
     {
         "id": 22,
