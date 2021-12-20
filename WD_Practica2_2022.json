@@ -1,4 +1,4 @@
-[/*{
+[{
         "id": 1,
         "autor": "Vuestros nombres",
         "titulo": "El titulo de vuestra práctica",
@@ -15,5 +15,5 @@
         "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
         "texto": "Texto que describa la web2",
         "url": "https://afrikiudl.github.io/practicawd/"
-    }*/
+    }
 ]
