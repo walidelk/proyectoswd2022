@@ -6,14 +6,5 @@
         "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
         "texto": "Texto que describa la web",
         "url": "https://afrikiudl.github.io/practicawd/"
-    },
-	{
-        "id": 2,
-        "autor": "Vuestros nombres2 y Mi nombre",
-        "titulo": "El titulo de vuestra práctica2",
-        "srcimg": "https://afrikiudl.github.io/practicawd/img/videojuegos.831f6cd2.jpg", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Texto que describa la web2",
-        "url": "https://afrikiudl.github.io/practicawd/"
     }
 ]
