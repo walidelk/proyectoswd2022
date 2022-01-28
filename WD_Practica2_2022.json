@@ -18,11 +18,11 @@
     },
     {
         "id": 3,
-        "autor": "Otros nombres",
-        "titulo": "Otro titulo de práctica",
-        "srcimg": "https://picsum.photos/1024/480?random=1/", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Otra explicación de la web",
+        "autor": "Sami Marhaoui Bennij",
+        "titulo": "Foxy",
+        "srcimg": "https://images.alphacoders.com/441/thumb-1920-441876.jpg", 
+        "alt": "Foxy contiene cuentos infantiles para niños y niñas con dificultades.",
+        "texto": "Contiene también un catálogo de cuentos educativos",
         "url": "https://afrikiudl.github.io/practicawd/"
     },
     {
