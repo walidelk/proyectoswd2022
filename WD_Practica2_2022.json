@@ -9,12 +9,12 @@
     },
     {
         "id": 2,
-        "autor": "Otros nombres",
-        "titulo": "Otro titulo de práctica",
-        "srcimg": "https://picsum.photos/1024/480?random=1/", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Otra explicación de la web",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "autor": "Alejandra Retto y Marta Pons",
+        "titulo": "Gallery Studio",
+        "srcimg": "https://raw.githubusercontent.com/mponsr/gallerystudio/main/RTY.jpg", 
+        "alt": "Logo de la empresa",
+        "texto": "Gallery Studio, expone obras las obras de estudiantes que realizan en su período académico.",
+        "url": "https://mponsr.github.io/gallerystudio/"
     },
     {
         "id": 3,
