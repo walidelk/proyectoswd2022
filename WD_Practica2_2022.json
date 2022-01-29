@@ -27,12 +27,12 @@
     },
      {
         "id": 4,
-        "autor": "Otros nombres",
-        "titulo": "Otro titulo de práctica",
-        "srcimg": "https://picsum.photos/1024/480?random=1/", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Otra explicación de la web",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "autor": " Walid El Khoummadi y Alfonso Alegre Cebrián ",
+        "titulo": "Cafeterias Atelier",
+        "srcimg": "https://raw.githubusercontent.com/walidelk/practicawd/main/portada%20ca.png", 
+        "alt": "This is CAFETERIAS ATELIER, a cosy place where you can drink,eat, and have a good quality time.",
+        "texto": "Cafeterias atelier welcome’s you",
+        "url": "https://walidelk.github.io/practicawd/"
     },
     {
         "id": 5,
