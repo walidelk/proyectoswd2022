@@ -25,13 +25,13 @@
         "texto": "Contiene también un catálogo de cuentos educativos",
         "url": "https://afrikiudl.github.io/practicawd/"
     },
-    {
+     {
         "id": 4,
-        "autor": "Emma Cosculluela Chimeno",
-        "titulo": "FEM FASHION",
-        "srcimg": "https://1.bp.blogspot.com/-if_T8ugPbIc/WOnbd3dA71I/AAAAAAACotI/a2QjTXfnYHYKR6Cc3dzamX4E60TOXDtagCLcB/s1600/worst-80s-fashion-trends-4.jpeg", 
-        "alt": "Moda aeròbic anys 80.",
-        "texto": "Blog/magazine sobre la moda femenina els últims 50 anys, centrant-se en les tendències més rellevants de cada dècada per veure l’evolució.",
+        "autor": "Otros nombres",
+        "titulo": "Otro titulo de práctica",
+        "srcimg": "https://picsum.photos/1024/480?random=1/", 
+        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
+        "texto": "Otra explicación de la web",
         "url": "https://afrikiudl.github.io/practicawd/"
     },
     {
